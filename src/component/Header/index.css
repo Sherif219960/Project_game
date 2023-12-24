@@ -1,0 +1,29 @@
+.active {
+    color: #e75e8d !important;
+}
+
+.nav-item {
+    padding-left: 10px;
+}
+
+
+
+.profile {
+    display: flex;
+    border: 1px solid inherit;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 20px;
+    margin-left: 20px;
+    background: #27292a !important;
+
+}
+
+.nav li:last-child a.active {
+    background-color: #e75e8d !important;
+    color: #27292a !important;
+}
+
+.profile img {
+    border-radius: 20px;
+}
