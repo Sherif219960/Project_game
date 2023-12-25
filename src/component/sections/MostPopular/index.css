@@ -1,0 +1,21 @@
+.section-wrapper {
+  background-color: var(--color-darkest);
+  border-radius: var(--border-radius-primary);
+  padding: var(--padding-primary);
+  margin-top: var(--margin-primary);
+}
+.section-header {
+  margin-bottom: var(--margin-primary);
+}
+.section-header h4 {
+  font-weight: var(--font-weight);
+  font-size: var(--distance-primary);
+  color: var(--color-primary);
+}
+.section-header em {
+  text-decoration: underline;
+  font-style: var(--font-normal);
+  color: var(--color-light);
+  margin-right: 10px;
+}
+

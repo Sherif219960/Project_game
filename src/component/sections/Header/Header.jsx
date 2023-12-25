@@ -1,7 +1,7 @@
 import './index.css'
-import logo from '../../assets/images/logo.png'
-import Navitem, { NavitemProfile } from '../Navitem/Navitem'
-import proheader from '../../assets/images/profile-header.jpg'
+import logo from '../../../assets/images/logo.png'
+import Navitem, { NavitemProfile } from '../../Navitem/Navitem'
+import proheader from '../../../assets/images/profile-header.jpg'
 
 
 const Header = () => {
