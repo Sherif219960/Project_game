@@ -1,15 +1,15 @@
-import React from 'react'
-import { Header, Container, Footer } from './component/index'
+import './App.css'
+import { Header, Container, Footer, Hero } from "./component/index";
 const App = () => {
   return (
     <>
       <Header />
-      <Container >
-
+      <Container>
+        <Hero />
       </Container>
       <Footer />
     </>
-  )
-}
+  );
+};
 
-export default App
+export default App;
