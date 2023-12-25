@@ -2,7 +2,7 @@ import './index.css'
 
 const Container = ({ children }) => {
   return (
-    <div className='container'>{children}</div>
+    <div className='container main-container'>{children}</div>
   )
 }
 

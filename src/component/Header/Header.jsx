@@ -6,7 +6,7 @@ import proheader from '../../assets/images/profile-header.jpg'
 
 const Header = () => {
   return (
-    <nav className="navbar navbar-expand-lg bg-dark border-bottom border-body" data-bs-theme="dark">
+    <nav className="navbar navbar-expand-lg border-body cyber-hero" data-bs-theme="dark">
       <div className="container">
         <a className="navbar-brand" href="#">
           <img src={logo} alt="" />
